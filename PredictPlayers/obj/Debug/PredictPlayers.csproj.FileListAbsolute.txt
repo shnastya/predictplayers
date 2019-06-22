@@ -1,0 +1,14 @@
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\bin\Debug\PredictPlayers.exe.config
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\bin\Debug\PredictPlayers.exe
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\bin\Debug\PredictPlayers.pdb
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.MainForm.resources
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.exe
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.pdb
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.ResultForm.resources
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Анастасия\source\repos\PredictPlayers\PredictPlayers\obj\Debug\PredictPlayers.csproj.CopyComplete
